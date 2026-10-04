@@ -1,0 +1,13 @@
+Food Festival 2026 - Food Stall Menu
+
+1. Pizza Paradise
+   Food: Margherita Pizza
+   Price: Rs. 120
+
+2. Spice Corner
+   Food: Paneer Tikka
+   Price: Rs. 100
+
+3. Sweet Treats
+   Food: Gulab Jamun
+   Price: Rs. 60
