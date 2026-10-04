@@ -11,3 +11,6 @@ Food Festival 2026 - Food Stall Menu
 3. Sweet Treats
    Food: Gulab Jamun
    Price: Rs. 60
+4. Burger Hub
+   Food: Veg Cheese Burger
+   Price: Rs. 90
